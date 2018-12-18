@@ -1,0 +1,16 @@
+{
+  "name": "p5-graphics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/groowy17/p5-graphics.git",
+  "author": "Коноплев Павел <konoplev@reg.ru>",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/parcel index.html",
+    "watch": "./node_modules/.bin/parcel watch index.html",
+    "build": "./node_modules/.bin/parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}
