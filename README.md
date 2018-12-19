@@ -1,4 +1,11 @@
 # p5-graphics
 
 For start  
-`yarn start`
+```
+yarn start
+```
+
+For build  
+```
+yarn build
+```
